@@ -1,4 +1,14 @@
 package br.com.marllon.vieira.vergili.sistemaBancario.services;
 
-public class LogicaSistemaBancario {
+
+/**
+ * Classe abstrata para armazenar as lógicas do sistema bancário
+ *
+ *
+ */
+
+public abstract class LogicaSistemaBancario {
+
+
+
 }
